@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"bou.ke/monkey"
+	"github.com/morgasaurus/monkey"
 )
 
 func main() {
